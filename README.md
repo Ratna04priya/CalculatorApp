@@ -5,9 +5,9 @@
 ## Layouts 
       Two different kinds of modes are there for landscape and potrait mode respectively.
 ## Functionalities
->Add
->Sub
->Mul
->Div
->Assigining Negative numbers and it's operations
->Clearing and restarting the calculations.
+>1. Add
+>2. Sub
+>3. Mul
+>4. Div
+>5. Assigining Negative numbers and it's operations
+>6. Clearing and restarting the calculations.
